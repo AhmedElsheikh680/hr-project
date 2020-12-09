@@ -2,7 +2,6 @@
 Spring boot (RestfullAPI)
 
 Technologies<br>
-Mandatory
 ⦁ PostgreSQL Database <br>
 ⦁ Spring Web<br>
 ⦁ Spring Data JPA<br>
