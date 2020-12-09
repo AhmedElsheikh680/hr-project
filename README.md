@@ -39,3 +39,7 @@ Delete Depatment (DELETE : localhost:8080/api/v1/deleteDept) With Request Param 
 == Relation Between Employees And Department == <br>
 Return all Employees bassed on Department (GET : localhost:8080/getAllDepts/{deptId}/getAllEmps) <br>
 
+
+==Swagger(Documentation Web Service) ==<br>
+http://localhost:8080/swagger-ui.html <br>
+
